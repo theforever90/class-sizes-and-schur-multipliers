@@ -5,7 +5,7 @@
 For each of the 17 finite simple groups $S$ listed in the code and each nonidentity element $s\in S$ of order $p^a$, with $p$ prime, we verify that
 
 $$
-|s^S|_{p'} \nmid |\operatorname{Mult}(S)|.
+|s^S|_{p'} \nmid |\mathrm{Mult}(S)|.
 $$
 
 Here $|s^S|_{p'}$ is the $p'$-part of the conjugacy class size of $s$. Class sizes are computed from CTblLib centralizer orders. The Schur multiplier orders come from the online *ATLAS of Finite Group Representations*. The source label `origin: ATLAS of finite groups` in the GAP output refers to the book *Atlas of Finite Groups* by Conway et al. (1985).
